@@ -1,3 +1,5 @@
+*Under construction, notebooks and data are functional as it is, but will be expanded.*
+
 # Training Data, Moment Tensor Potentials and Verification for Mg/Al/Ca
 
 *This data is part of a publication currently under submission.  If you are interested in using it for your work, please contact us.*
