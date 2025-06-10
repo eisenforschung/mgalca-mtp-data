@@ -1,8 +1,25 @@
 # Training Data, Moment Tensor Potentials and Verification for Mg/Al/Ca
 
-*This data is part of a [publication](https://www.researchsquare.com/article/rs-4732459/v1) currently under submission.  If you are interested in using it for your work, please contact us.*
+*This data is part of a [publication](https://doi.org/10.1038/s41524-025-01669-4).*
 
 Data files may be downloaded from [EDMOND](https://doi.org/10.17617/3.DYLLSS) using the `Unpack.ipynb` notebook.
+
+# Citation
+
+Please cite the following paper, if this data is useful for your work.
+
+```
+@article{poul2025automated,
+  title={Automated generation of structure datasets for machine learning potentials and alloys},
+  volume={11},
+  DOI={10.1038/s41524-025-01669-4},
+  number={1},
+  journal={npj Computational Materials},
+  author={Poul, Marvin and Huber, Liam and Neugebauer, J\"org},
+  year={2025},
+  month={Jun}
+}
+```
 
 # Notebooks
 
